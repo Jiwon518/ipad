@@ -1203,9 +1203,8 @@ main{
   height: 630px;
 }
 .display .shareplay figure{
-  transform: translate(-100px, 0);
+  transform: translate(-360px, 0);
 }
-
 .display .shareplay figcaption{
   width: 110px;
   height: 48px;
